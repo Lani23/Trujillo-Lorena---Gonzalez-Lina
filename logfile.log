@@ -1,0 +1,43 @@
+[2024-08-12 20:07:33] [ ERROR] [DaoH2:42] [guardar] La cantidad de columnas no coincide
+Column count does not match; SQL statement:
+INSERT INTO ODONTOLOGOS VALUES (DEFAULT, ?, ?, ?, ?) [21002-230]
+[2024-08-12 20:07:33] [ INFO ] [DaoH2:73] [listarTodos] Odontólogo Odontologo{id=1, numeromatricula=456789123, nombre='Lorena', apellido='Trujillo'}
+[2024-08-12 20:07:33] [ INFO ] [DaoH2:73] [listarTodos] Odontólogo Odontologo{id=2, numeromatricula=123456789, nombre='Lina', apellido='Gonzalez'}
+[2024-08-12 20:07:33] [ INFO ] [DaoH2:73] [listarTodos] Odontólogo Odontologo{id=3, numeromatricula=987654123, nombre='Pepito', apellido='Perez'}
+[2024-08-12 20:09:19] [ INFO ] [DaoH2:38] [guardar] Odontólogo guardado en base de datos Odontologo{id=4, numeromatricula=65412369, nombre='Andres', apellido='Castro'}
+[2024-08-12 20:09:19] [ INFO ] [DaoH2:73] [listarTodos] Odontólogo Odontologo{id=1, numeromatricula=456789123, nombre='Lorena', apellido='Trujillo'}
+[2024-08-12 20:09:19] [ INFO ] [DaoH2:73] [listarTodos] Odontólogo Odontologo{id=2, numeromatricula=123456789, nombre='Lina', apellido='Gonzalez'}
+[2024-08-12 20:09:19] [ INFO ] [DaoH2:73] [listarTodos] Odontólogo Odontologo{id=3, numeromatricula=987654123, nombre='Pepito', apellido='Perez'}
+[2024-08-12 20:09:19] [ INFO ] [DaoH2:73] [listarTodos] Odontólogo Odontologo{id=4, numeromatricula=65412369, nombre='Andres', apellido='Castro'}
+[2024-08-12 20:10:57] [ INFO ] [DaoH2:38] [guardar] Odontólogo guardado en base de datos Odontologo{id=4, numeromatricula=65412369, nombre='Andres', apellido='Castro'}
+[2024-08-12 20:10:58] [ INFO ] [DaoH2:75] [listarTodos] Odontólogo Odontologo{id=1, numeromatricula=456789123, nombre='Lorena', apellido='Trujillo'}
+[2024-08-12 20:10:58] [ INFO ] [DaoH2:75] [listarTodos] Odontólogo Odontologo{id=2, numeromatricula=123456789, nombre='Lina', apellido='Gonzalez'}
+[2024-08-12 20:10:58] [ INFO ] [DaoH2:75] [listarTodos] Odontólogo Odontologo{id=3, numeromatricula=987654123, nombre='Pepito', apellido='Perez'}
+[2024-08-12 20:10:58] [ INFO ] [DaoH2:75] [listarTodos] Odontólogo Odontologo{id=4, numeromatricula=65412369, nombre='Andres', apellido='Castro'}
+[2024-08-12 20:23:31] [ INFO ] [DaoEnMemoria:18] [guardar] Odontólogo guardado en memoria Odontologo{id=1, numeromatricula=658974123, nombre='Maria', apellido='Sanchez'}
+[2024-08-12 20:23:31] [ INFO ] [DaoEnMemoria:18] [guardar] Odontólogo guardado en memoria Odontologo{id=1, numeromatricula=27187456, nombre='Lorena', apellido='Trujillo'}
+[2024-08-12 20:23:31] [ INFO ] [DaoEnMemoria:18] [guardar] Odontólogo guardado en memoria Odontologo{id=2, numeromatricula=36458789, nombre='Lina', apellido='Gonzalez'}
+[2024-08-12 20:25:50] [ INFO ] [DaoEnMemoria:18] [guardar] Odontólogo guardado en memoria Odontologo{id=1, numeromatricula=27187456, nombre='Lorena', apellido='Trujillo'}
+[2024-08-12 20:25:50] [ INFO ] [DaoEnMemoria:18] [guardar] Odontólogo guardado en memoria Odontologo{id=2, numeromatricula=36458789, nombre='Lina', apellido='Gonzalez'}
+[2024-08-12 20:29:39] [ INFO ] [DaoEnMemoria:18] [guardar] Odontólogo guardado en memoria Odontologo{id=1, numeromatricula=27187456, nombre='Lorena', apellido='Trujillo'}
+[2024-08-12 20:29:39] [ INFO ] [DaoEnMemoria:18] [guardar] Odontólogo guardado en memoria Odontologo{id=2, numeromatricula=36458789, nombre='Lina', apellido='Gonzalez'}
+[2024-08-12 20:30:07] [ INFO ] [DaoH2:38] [guardar] Odontólogo guardado en base de datos Odontologo{id=4, numeromatricula=65412369, nombre='Andres', apellido='Castro'}
+[2024-08-12 20:30:07] [ INFO ] [DaoH2:75] [listarTodos] Odontólogo Odontologo{id=1, numeromatricula=456789123, nombre='Lorena', apellido='Trujillo'}
+[2024-08-12 20:30:07] [ INFO ] [DaoH2:75] [listarTodos] Odontólogo Odontologo{id=2, numeromatricula=123456789, nombre='Lina', apellido='Gonzalez'}
+[2024-08-12 20:30:07] [ INFO ] [DaoH2:75] [listarTodos] Odontólogo Odontologo{id=3, numeromatricula=987654123, nombre='Pepito', apellido='Perez'}
+[2024-08-12 20:30:07] [ INFO ] [DaoH2:75] [listarTodos] Odontólogo Odontologo{id=4, numeromatricula=65412369, nombre='Andres', apellido='Castro'}
+[2024-08-12 20:30:24] [ INFO ] [DaoH2:38] [guardar] Odontólogo guardado en base de datos Odontologo{id=4, numeromatricula=65412369, nombre='Andres', apellido='Castro'}
+[2024-08-12 20:30:32] [ INFO ] [DaoH2:75] [listarTodos] Odontólogo Odontologo{id=1, numeromatricula=456789123, nombre='Lorena', apellido='Trujillo'}
+[2024-08-12 20:30:32] [ INFO ] [DaoH2:75] [listarTodos] Odontólogo Odontologo{id=2, numeromatricula=123456789, nombre='Lina', apellido='Gonzalez'}
+[2024-08-12 20:30:32] [ INFO ] [DaoH2:75] [listarTodos] Odontólogo Odontologo{id=3, numeromatricula=987654123, nombre='Pepito', apellido='Perez'}
+[2024-08-12 20:30:39] [ INFO ] [DaoH2:75] [listarTodos] Odontólogo Odontologo{id=1, numeromatricula=456789123, nombre='Lorena', apellido='Trujillo'}
+[2024-08-12 20:30:39] [ INFO ] [DaoH2:75] [listarTodos] Odontólogo Odontologo{id=2, numeromatricula=123456789, nombre='Lina', apellido='Gonzalez'}
+[2024-08-12 20:30:39] [ INFO ] [DaoH2:75] [listarTodos] Odontólogo Odontologo{id=3, numeromatricula=987654123, nombre='Pepito', apellido='Perez'}
+[2024-08-12 20:30:51] [ INFO ] [DaoH2:38] [guardar] Odontólogo guardado en base de datos Odontologo{id=4, numeromatricula=65412369, nombre='Andres', apellido='Castro'}
+[2024-08-12 20:30:51] [ INFO ] [DaoH2:75] [listarTodos] Odontólogo Odontologo{id=1, numeromatricula=456789123, nombre='Lorena', apellido='Trujillo'}
+[2024-08-12 20:30:51] [ INFO ] [DaoH2:75] [listarTodos] Odontólogo Odontologo{id=2, numeromatricula=123456789, nombre='Lina', apellido='Gonzalez'}
+[2024-08-12 20:30:51] [ INFO ] [DaoH2:75] [listarTodos] Odontólogo Odontologo{id=3, numeromatricula=987654123, nombre='Pepito', apellido='Perez'}
+[2024-08-12 20:30:51] [ INFO ] [DaoH2:75] [listarTodos] Odontólogo Odontologo{id=4, numeromatricula=65412369, nombre='Andres', apellido='Castro'}
+[2024-08-12 20:31:05] [ INFO ] [DaoEnMemoria:18] [guardar] Odontólogo guardado en memoria Odontologo{id=1, numeromatricula=658974123, nombre='Maria', apellido='Sanchez'}
+[2024-08-12 20:31:05] [ INFO ] [DaoEnMemoria:18] [guardar] Odontólogo guardado en memoria Odontologo{id=1, numeromatricula=27187456, nombre='Lorena', apellido='Trujillo'}
+[2024-08-12 20:31:05] [ INFO ] [DaoEnMemoria:18] [guardar] Odontólogo guardado en memoria Odontologo{id=2, numeromatricula=36458789, nombre='Lina', apellido='Gonzalez'}
